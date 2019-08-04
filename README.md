@@ -992,7 +992,7 @@ SAS Guru Dec 2018 Toronto Meetup Video
 
         1. Hitting a mouse button
         2. Hitting a Function key
-        3. Typing the key abreviation (command macro) on the clean command line.
+        3. Typing the key abbreviation (command macro) on the clean command line.
 
     Obs    KEY        LEN    VAL
 
